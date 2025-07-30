@@ -1,7 +1,6 @@
-# 💫 About Me:
-I am currently studying and working towards becoming a programmer.
-# 💫 About Me:
-I am currently studying and working towards becoming a programmer.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Кудинов Артем" />
+</h1>
 
 
 ## 🌐 Socials:
