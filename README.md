@@ -8,8 +8,9 @@
 
 <h1 align="center">Привет👋 Меня зовут Артем!</h1>
 
-###
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FKudinovArtemilus)
 
+****
 <div align="center">
   <a href="https://www.youtube.com/@АртемКудинов-х8х" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
