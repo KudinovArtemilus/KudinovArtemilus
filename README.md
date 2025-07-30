@@ -3,7 +3,7 @@ I am currently studying and working towards becoming a programmer.
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Kudinov Artemilus) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Artem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:KudinovArtemilus@gmail.com) 
+[email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:KudinovArtemilus@gmail.com) 
 
 # 💻 Tech Stack:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
