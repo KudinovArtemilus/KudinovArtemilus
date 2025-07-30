@@ -35,10 +35,10 @@
 
 ###
 <h3 align="left">📕 Мои курсы и книги</h3>
-| Номер         | Название      |     Сроки     |
-| ------------- | ------------- | ------------- |
-|       1       | Java. Хоорсман| август 2025
-| ------------- | ------------- |-------------- |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 ###
