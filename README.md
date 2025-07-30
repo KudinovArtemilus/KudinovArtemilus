@@ -4,9 +4,15 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
 
 
-[![Java GitHub stats](https://github-readme-stats.vercel.app/api?username=Java)](https://github.com/Java/github-readme-stats)
 <!--
 **KudinovArtemilus/KudinovArtemilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
