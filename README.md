@@ -62,6 +62,11 @@
         <td>Заур - UDEMY Java для начинающих с нуля до сертификата Oracle</td>
         <td>Август 2025 - по настоящее время</td>
     </tr>
+      <tr>
+        <td>5 📚 </td>
+        <td>Тони Гэддис - Ничинаем программировать на Python</td>
+      <td>август 2025 - по настоящее время</td>
+    </tr>
   
 </table>
 
@@ -80,8 +85,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
 </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+</div>
 
-###
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
