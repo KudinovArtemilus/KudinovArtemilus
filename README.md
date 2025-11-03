@@ -74,7 +74,7 @@
     </tr>
     <tr>
         <td>7 📚 </td>
-        <td>Алексей Васильев - Java для всех</td>
+        <td>Марк Прайс - С# Sharp 10 и .NET 6. Современная кросс-платформенная разработка</td>
       <td>Ноябрь 2025 - по настоящее время</td>
     </tr>
 </table>
@@ -98,7 +98,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="java logo"  />
   <img width="12" />
 </div>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+</div>
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
